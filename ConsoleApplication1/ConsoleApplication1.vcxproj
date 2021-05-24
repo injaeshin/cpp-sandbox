@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="MiniDump.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MiniDump.h" />
