@@ -1,4 +1,4 @@
-#include "Windows.h"
+﻿#include "Windows.h"
 
 #include <iostream>
 
@@ -7,6 +7,11 @@
 int main()
 {
     MiniDump::Init();
+
+	int a = 0;
+	int b = 10;
+
+	std::cout << b / a;
 
     return 0;
 }
